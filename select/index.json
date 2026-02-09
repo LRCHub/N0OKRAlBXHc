@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Ghetto Kids",
+  "base_artist": "Eric.B.Jr",
+  "createdAt": "2026-02-09T13:04:10.042539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tra Tra Tra Remix - Ghetto Kids & Guaynaa Ft. Mad Fuentes",
+      "artist": "Ghetto Kids",
+      "has_synced": true,
+      "path": "select/01_Tra_Tra_Tra_Remix_-_Ghetto_Kids_&_Guaynaa_Ft._Mad_Fuentes_Ghetto_Kids.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ghetto Kids Next Up",
+      "artist": "Touchline",
+      "has_synced": false,
+      "path": "select/02_Ghetto_Kids_Next_Up_Touchline.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghetto Kids",
+      "artist": "Eric.B.Jr",
+      "has_synced": false,
+      "path": "select/pl_01_Ghetto_Kids_Eric.B.Jr.txt"
+    }
+  ]
+}
